@@ -1,0 +1,2 @@
+[workspace]
+members = ["line_reader", "c01", "c02"]
