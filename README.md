@@ -4,5 +4,5 @@ These are my solutions for [Advent of Code](https://adventofcode.com) written in
 
 ## Days
 
-* [01](./c01)
-* [02](./c02)
+* [01](./c01/src/main.rs)
+* [02](./c02/src/main.rs)
